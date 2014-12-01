@@ -1,3 +1,6 @@
 [submodule "projects/gentoo-thanks"]
 	path = projects/gentoo-thanks
 	url = https://github.com/danielquinn/gentoo-thanks
+[submodule "projects/bitcoin-donate"]
+	path = projects/bitcoin-donate
+	url = https://github.com/danielquinn/bitcoin-donate
