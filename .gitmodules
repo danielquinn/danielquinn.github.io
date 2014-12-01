@@ -1,0 +1,3 @@
+[submodule "projects/gentoo-thanks"]
+	path = projects/gentoo-thanks
+	url = https://github.com/danielquinn/gentoo-thanks
