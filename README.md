@@ -1,10 +1,5 @@
 # danielquinn.github.io
 
-This is just my GitHub.io space.  I'm using submodules where appropriate, so if
-you're interested in any of the components, it's probably best to visit those
-pages directly.
-
-For now though, you can visit the demos for
-[gentoo-thanks](http://danielquinn.github.io/projects/gentoo-thanks/) and 
-[bitcoin-donate](http://danielquinn.github.io/projects/bitcoin-donate/) if
-you're curious.
+This is just my GitHub.io space.  I've used an [HTML5up.net](http://html5up.net/)
+template to do all of the fancy work and put a face on the bunch of miniprojects
+hosted here.
