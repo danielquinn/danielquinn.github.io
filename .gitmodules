@@ -4,6 +4,3 @@
 [submodule "projects/bitcoin-donate"]
 	path = projects/bitcoin-donate
 	url = https://github.com/danielquinn/bitcoin-donate
-[submodule "projects/djangoconeu-tutorial"]
-	path = projects/djangoconeu-tutorial
-	url = https://github.com/danielquinn/DjangoConEU2015-PHP-to-Python
